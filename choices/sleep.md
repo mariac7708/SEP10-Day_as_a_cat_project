@@ -3,4 +3,4 @@
 ---
 ### You go back to sleep
 
-[start over](../wake-up.md)
+[start over](wake-up.md)
