@@ -2,4 +2,4 @@
 ## Play area
 ---
 ### You are now hungry
-[go to the kithen to eat]()
+[go to the kithen to eat](breakfast.md)
