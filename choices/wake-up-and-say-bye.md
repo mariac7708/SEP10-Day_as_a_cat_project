@@ -3,6 +3,6 @@
 ---
 ### You wake up and say good bye to your owner
 
-[go to the kitchen and eat](breakfast.md)
+[Go to the kitchen and eat](breakfast.md)
 or
-[go play](play.md)
+[Go play](play.md)
